@@ -1,0 +1,8 @@
+teams,winner,score,date_time,mail,venue
+FRA vs ITA,FRA,3-2,2025-01-01 14:00,match1@gmail.com,France|Île-de-France|Paris|Stade de France
+BRA vs ESP,ESP,1-2,2025-01-01 16:30,match2@gmail.com,Brazil|São Paulo|São Paulo|Estádio do Morumbi
+ENG vs GER,ENG,4-3,2025-01-02 18:00,match3@gmail.com,England|Greater London|London|Wembley Stadium
+ARG vs USA,ARG,2-0,2025-01-02 20:30,match4@gmail.com,Argentina|Buenos Aires|Buenos Aires|Estadio Monumental
+AUS vs CAN,AUS,1-0,2025-01-03 15:00,match5@gmail.com,Australia|New South Wales|Sydney|Stadium Australia
+ESP vs ENG,ENG,3-2,2025-01-03 18:30,match6@gmail.com,Spain|Catalonia|Barcelona|Camp Nou
+GER vs BRA,GER,2-1,2025-01-04 20:00,match7@gmail.com,Germany|Bavaria|Munich|Allianz Arena
